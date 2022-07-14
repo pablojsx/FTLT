@@ -14,7 +14,7 @@
     "statusBar.debuggingBackground": "#ff0000",
     "statusBar.foreground": "#ff0000",
     "statusBar.border": "#1b1414",
-    "statusBar.background": "#48ff00",
+    "statusBar.background": "#311722",
     "sideBar.foreground": "#817e7e",
     "textLink.foreground": "#cacaca",
     "textLink.activeForeground": "#ffffff",
@@ -38,7 +38,7 @@
       "name": "Comment",
       "scope": ["comment", "punctuation.definition.comment"],
       "settings": {
-        "fontStyle": "strikethrough",
+        "fontStyle": "bold strikethrough",
         "foreground": "#522a2a"
       }
     },
@@ -141,7 +141,7 @@
         "keyword.other"
       ],
       "settings": {
-        "foreground": "#ffffffcc"
+        "foreground": "#ff0000dc"
       }
     },
     {
@@ -193,7 +193,7 @@
         "source.postcss support.type.property-name"
       ],
       "settings": {
-        "foreground": "#00ff15"
+        "foreground": "#925353"
       }
     },
     {
@@ -237,7 +237,7 @@
       "name": "Attributes",
       "scope": ["entity.other.attribute-name"],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#8d8989"
       }
     },
     {
@@ -255,7 +255,7 @@
       "name": "CSS Classes",
       "scope": ["entity.other.attribute-name.class"],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#9e9c9c96"
       }
     },
     {
@@ -315,7 +315,7 @@
       ],
       "settings": {
         "fontStyle": "italic",
-        "foreground": "#82AAFF"
+        "foreground": "#eff4ff"
       }
     },
     {
@@ -334,7 +334,7 @@
         "source.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#C792EA"
+        "foreground": "#ffffff"
       }
     },
     {
@@ -343,7 +343,7 @@
         "source.json meta.structure.dictionary.json meta.structure.dictionary.value.json meta.structure.dictionary.json support.type.property-name.json"
       ],
       "settings": {
-        "foreground": "#FFCB6B"
+        "foreground": "#ff0606b2"
       }
     },
     {

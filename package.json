@@ -2,7 +2,7 @@
   "name": "fatality",
   "displayName": "Fatality",
   "description": "Just Blood",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "PabloMichea",
   "repository": {
     "type": "git",
@@ -19,7 +19,6 @@
     "red",
     "blood",
     "ff0000",
-    "#ff0000",
     "dark red",
     "warm red",
     "warm",
