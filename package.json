@@ -4,6 +4,10 @@
   "description": "Just Blood",
   "version": "0.0.1",
   "publisher": "PabloMichea",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pablomichea/FTLT"
+  },
   "engines": {
     "vscode": "^1.69.0"
   },
