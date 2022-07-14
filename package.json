@@ -1,0 +1,36 @@
+{
+  "name": "fatality",
+  "displayName": "Fatality",
+  "description": "Just Blood",
+  "version": "0.0.1",
+  "publisher": "PabloMichea",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "red",
+    "blood",
+    "ff0000",
+    "#ff0000",
+    "dark red",
+    "warm red",
+    "warm",
+    "just red",
+    "blood color",
+    "rojo",
+    "rojo oscuro"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fatality",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fatality-color-theme.json"
+      }
+    ]
+  }
+}
