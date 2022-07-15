@@ -1,12 +1,7 @@
 
-# Fatal1ty theme
+# Fatality theme
 
-
-
-Disable Bracket Pair Colorization or you'll be blessed by the chainsaw.
-
-
-
+This theme doesn't follow any "contrast rule". I wanted to create something i could use during night programming.
 
 ## Authors
 
