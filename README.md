@@ -1,5 +1,7 @@
 # Fatality theme
 
+Updated: Added v2 with normal (no strike) italic comments
+
 This theme doesn't follow any "contrast rule". I wanted to create something I could use during night programming.
 
 ## Authors
