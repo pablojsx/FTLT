@@ -1,19 +1,14 @@
-
 # Fatality theme
 
-This theme doesn't follow any "contrast rule". I wanted to create something i could use during night programming.
+This theme doesn't follow any "contrast rule". I wanted to create something I could use during night programming.
 
 ## Authors
 
 - [@pablomichea](https://github.com/pablomichea)
 
-
 ## Usage/Examples
 
 Disable 'Bracket Pair Colorization' for the full experience.
-
-
-
 
 ## Screenshots
 
@@ -24,13 +19,11 @@ Editor:
 Comments:
 
 ![App Screenshot](https://i.imgur.com/m33LBUC.jpeg)
+
 ## Acknowledgements
 
-
- - [readme.so](https://readme.so/)
-
+- [readme.so](https://readme.so/)
 
 ## Support
 
 For support, email me to pablomichea@live.cl.
-
