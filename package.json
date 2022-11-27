@@ -2,7 +2,7 @@
   "name": "fatality",
   "displayName": "Fatality",
   "description": "Just Blood",
-  "version": "0.0.2",
+  "version": "0.0.4",
   "publisher": "PabloMichea",
   "repository": {
     "type": "git",
@@ -33,7 +33,16 @@
         "label": "Fatality",
         "uiTheme": "vs-dark",
         "path": "./themes/Fatality-color-theme.json"
+      },
+      {
+        "label": "Fatality v2",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fatality-color-theme-no-strike-comments"
       }
     ]
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "vsce": "^2.14.0"
   }
 }
